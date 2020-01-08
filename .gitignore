@@ -4,7 +4,7 @@ dump
 dump/*
 vendor
 vendor/*
-docker-utils
+docker-utils/log/
 .DS_Store
 
 

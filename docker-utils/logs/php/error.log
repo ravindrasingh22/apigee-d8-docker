@@ -1,0 +1,1 @@
+[12-Oct-2019 18:21:14 Asia/Kolkata] Uncaught PHP Exception Twig\Error\SyntaxError: "An exception has been thrown during the compilation of a template ("Attribute "name" does not exist for Node "Twig\Node\CheckToStringNode".") in "core/themes/bartik/templates/node.html.twig"." at /var/www/html/vendor/twig/twig/src/Environment.php line 798
